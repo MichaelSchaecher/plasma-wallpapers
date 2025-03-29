@@ -20,7 +20,7 @@ export PACKAGE_DIR PACKAGE VERSION MAINTAINER INSTALL BUILD HOMEPAGE ARCH
 .PHONY: all debian clean help
 
 # Default target
-all: debian
+all: manual
 
 debian:
 
@@ -38,9 +38,19 @@ debian:
 
 	@scripts/mkdeb
 
+manual:
+
+	@make debian
+
+ifeq ($(NO_REPO),yes)
+	@dpkg -i $(PACKAGE)_$(VERSION)_$(ARCH).deb
+else
+	echo "There is nothing to do here"
+endif
+
 install:
 
-	@dpkg -i $(PACKAGE)_$(VERSION)_$(ARCH).deb
+	@cp -vR $(PACKAGE_DIR)/usr /
 
 clean:
 	@rm -vf $(PACKAGE_DIR)/DEBIAN/control \
@@ -54,6 +64,7 @@ help:
 	@echo "Targets:"
 	@echo "  all       - Build the debian package and install it"
 	@echo "  debian    - Build the debian package"
+	@echo "  manual    - Build the debian package and install it manually"
 	@echo "  install   - Install the debian package"
 	@echo "  clean     - Clean up build files"
 	@echo "  help      - Display this help message"
