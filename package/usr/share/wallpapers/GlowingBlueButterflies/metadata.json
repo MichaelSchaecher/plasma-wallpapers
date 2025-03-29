@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Instagram": "",
+                "Website": "https://pixabay.com/",
+                "Name": "Pixabay"
+	        }
+	    ],
+	"Id": "Glowing Blue Butterflies",
+        "License": [
+            {
+                "CC-BY-SA-4.0": "true"
+            }
+        ],
+        "Name": "Glowing Blue Butterflies"
+    }
+}

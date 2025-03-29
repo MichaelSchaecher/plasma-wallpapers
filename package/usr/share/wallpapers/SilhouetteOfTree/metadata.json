@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Instagram": "https://www.instagram.com/jplenio",
+                "Website": "http://www.coolfreepix.com/",
+                "Name": "Johannes Plenio"
+	        }
+	    ],
+        "Id": "Silhouette Of Tree",
+        "License": [
+            {
+                "CC-BY-SA-4.0": "true"
+            }
+        ],
+        "Name": "Silhouette Of Tree"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "zayronxio.gm@gmail.com",
+                "Name": "zayronxio"
+            }
+        ],
+        "Id": "Cardinal",
+        "License":
+            [
+                {
+                    "CC-BY-SA-4.0": "true"
+                }
+            ],
+        "Version": "1.0",
+        "Name": "Cardinal"
+    }
+}

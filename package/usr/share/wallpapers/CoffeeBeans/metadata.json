@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Instagram": "https://www.instagram.com/thepaintedsquare",
+                "Website": "https://www.thepaintedsquare.com/",
+                "Name": "Jessica Lewis"
+	        }
+	    ],
+	"Id": "Coffee Beans",
+        "License": [
+            {
+                "CC-BY-SA-4.0": "true"
+            }
+        ],
+        "Name": "Coffee Beans"
+    }
+}

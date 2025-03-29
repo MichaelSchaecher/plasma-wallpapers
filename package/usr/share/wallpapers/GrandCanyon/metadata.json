@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Instagram": "https://www.instagram.com/eberhard_grossgasteiger",
+                "Website": "https://narrateography.art/",
+                "Name": "Eberhard Grossgasteiger"
+	        }
+	    ],
+	"Id": "Grand Canyon",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Grand Canyon"
+    }
+}

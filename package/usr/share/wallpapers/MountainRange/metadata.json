@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Instagram": "https://www.instagram.com/real_life_human",
+                "Website": "",
+                "Name": "Michael Spadoni"
+	        }
+	    ],
+	"Id": "Mountain Range",
+        "License": [
+            {
+                "CC-BY-SA-4.0": "true"
+            }
+        ],
+        "Name": "Mountain Range"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mschaecher78@gmail.com",
+                "Instagram": "",
+                "Website": "https://howtonebie.com",
+                "Name": "Michael Schaecher"
+	    }
+	],
+	"Id": "Beautiful Fairy",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Beautiful Fairy"
+    }
+}

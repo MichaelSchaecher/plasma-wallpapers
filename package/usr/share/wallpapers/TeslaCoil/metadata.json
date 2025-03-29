@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Instagram": "https://www.instagram.com/kkiks_",
+                "Website": "https://www.instagram.com/kkiks_/",
+                "Name": "Killian Eon"
+	        }
+	    ],
+	    "Id": "Tesla Coil",
+        "License": "CC-BY-SA-4.0",
+        "Name": "Tesla Coil"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "EvgenyTchebotarev@skylum.com",
+                "Name": "Evgeny Tchebotarev"
+	    }
+	],
+	"Id": "White Lantern Lot",
+        "License": "CC-BY-SA-4.0",
+        "Name": "White Lantern Lot"
+    }
+}
